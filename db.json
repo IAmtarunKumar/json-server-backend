@@ -1,0 +1,16 @@
+{
+  "user": [
+    {
+      "name": "tarun"
+    },
+    {
+      "name": "kajal"
+    }
+  ],
+
+  "product": [
+    {
+      "name": "Pump"
+    }
+  ]
+}
